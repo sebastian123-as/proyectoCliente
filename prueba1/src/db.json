@@ -1,0 +1,68 @@
+{
+  "cliente": [
+    {
+      "nombre": "Admin2",
+      "apellido": "apeAdmin1",
+      "capitalPrestado": "10.000",
+      "pagoIntereses": "1.500",
+      "total": "11.500",
+      "dineroLiquidado": "5.670",
+      "dineroPendiente": "5.830",
+      "capitalRevolvente": "banorte",
+      "fechaPrestamo": "22/05/24",
+      "fechaPago": "29/05/24",
+      "numerosDePrestamos": 5,
+      "proxFechaDePago": "26/05/24",
+      "clientePago": "no",
+      "id": "2cc3"
+    },
+    {
+      "nombre": "Admin2",
+      "apellido": "apeAdmin1",
+      "capitalPrestado": "10.000",
+      "pagoIntereses": "1.500",
+      "total": "11.500",
+      "dineroLiquidado": "5.670",
+      "dineroPendiente": "5.830",
+      "capitalRevolvente": "banorte",
+      "fechaPrestamo": "22/05/24",
+      "fechaPago": "29/05/24",
+      "numerosDePrestamos": 5,
+      "proxFechaDePago": "26/05/24",
+      "clientePago": "no",
+      "id": "233333"
+    },
+    {
+      "nombre": "Admin2",
+      "apellido": "apeAdmin1",
+      "capitalPrestado": "10.000",
+      "pagoIntereses": "1.500",
+      "total": "11.500",
+      "dineroLiquidado": "5.670",
+      "dineroPendiente": "5.830",
+      "capitalRevolvente": "banorte",
+      "fechaPrestamo": "22/05/24",
+      "fechaPago": "29/05/24",
+      "numerosDePrestamos": 5,
+      "proxFechaDePago": "26/05/24",
+      "clientePago": "no",
+      "id": "1212"
+    },
+    {
+      "nombre": "Admin2",
+      "apellido": "apeAdmin1",
+      "capitalPrestado": "10.000",
+      "pagoIntereses": "1.500",
+      "total": "11.500",
+      "dineroLiquidado": "5.670",
+      "dineroPendiente": "5.830",
+      "capitalRevolvente": "banorte",
+      "fechaPrestamo": "22/05/24",
+      "fechaPago": "29/05/24",
+      "numerosDePrestamos": 5,
+      "proxFechaDePago": "26/05/24",
+      "clientePago": "no",
+      "id": "2121212"
+    }
+  ]
+}
